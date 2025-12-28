@@ -6,3 +6,4 @@ Key functions include:
 1) Top news and sentiment scraping (returns a pandas dataframe)
 2) Smoothing average of sentiment
 3) Correlation analysis of sentiment vs asset return
+4) Correlation analysis of Number of News vs High-Low (Intraday Volatility)
