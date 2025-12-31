@@ -1,4 +1,4 @@
-# Programming Projects
+#Projects
 
 This GitHub profile stores my projects on:
 
