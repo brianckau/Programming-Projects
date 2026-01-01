@@ -13,7 +13,6 @@ Lasso Regression: Predicts future returns using L1 regularization and TimeSeries
 Metric: Evaluates performance using Information Coefficient (IC).
 
 ## 🛠️ Quick Usage
-python
 ### 1. Fetch & Analyze Sentiment
 df = sentiment_analysis("Tesla", "2025-06-30", "2025-12-01", "label")
 
